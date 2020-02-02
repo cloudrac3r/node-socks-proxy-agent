@@ -28,13 +28,13 @@
     "url": "https://github.com/TooTallNate/node-socks-proxy-agent/issues"
   },
   "dependencies": {
-    "agent-base": "5",
+    "@outtacontrol/socks": "github:phoenix344/socksv5#dbdecf75be849337a31e78ba14d316deed43287f",
+    "agent-base": "^6.0.0",
     "socks": "^2.3.2"
   },
   "devDependencies": {
     "mocha": "^5.1.0",
-    "raw-body": "^2.3.2",
-    "socksv5": "TooTallNate/socksv5#fix/dstSock-close-event"
+    "raw-body": "^2.3.2"
   },
   "engines": {
     "node": ">= 6"
