@@ -10,8 +10,8 @@
     "index.js"
   ],
   "repository": {
-    "type": "git",
-    "url": "git://github.com/TooTallNate/node-socks-proxy-agent.git"
+    "type": "https",
+    "url": "https://git.sr.ht/~cadence/nodejs-socks-proxy-agent"
   },
   "keywords": [
     "socks",
